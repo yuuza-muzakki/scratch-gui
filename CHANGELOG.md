@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [4.1.0](https://github.com/scratchfoundation/scratch-gui/compare/v4.0.45...v4.1.0) (2024-11-08)
+
+
+### Features
+
+* [UEPR-44] added ability to stop project when playing ([3ede51f](https://github.com/scratchfoundation/scratch-gui/commit/3ede51f0f38e072093d31c3d24913ccd456e01be))
+* [UEPR-44] exported redux action and added additional class to tutorials button ([01f493f](https://github.com/scratchfoundation/scratch-gui/commit/01f493f4db34b9f0875657eda8accbd25bf70d6e))
+
 ## [4.0.45](https://github.com/scratchfoundation/scratch-gui/compare/v4.0.44...v4.0.45) (2024-11-07)
 
 
