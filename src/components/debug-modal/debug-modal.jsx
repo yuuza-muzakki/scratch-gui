@@ -31,6 +31,13 @@ const logTopicChange = topicIndex => {
 const DebugModal = ({isOpen, onClose = () => {}}) => {
     const [selectedTopicIndex, setSelectedTopicIndex] = useState(0);
 
+    // Preload images
+    useEffect(() => {
+        sections.forEach(section => {
+            new Image().src = section.image;
+        });
+    }, []);
+
     const handleNext = useCallback(() => {
         if (selectedTopicIndex < sections.length - 1) {
             setSelectedTopicIndex(selectedTopicIndex + 1);
