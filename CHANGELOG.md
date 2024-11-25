@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0](https://github.com/scratchfoundation/scratch-gui/compare/v4.1.7...v5.0.0) (2024-11-25)
+
+
+* chore!: set license to AGPL-3.0-only ([3de24da](https://github.com/scratchfoundation/scratch-gui/commit/3de24da0f9e46307903a74695a6183d4a6035d9c))
+
+
+### BREAKING CHANGES
+
+* This project is now licensed under the AGPL version 3.0
+
+See https://www.scratchfoundation.org/open-source-license
+
 ## [4.1.7](https://github.com/scratchfoundation/scratch-gui/compare/v4.1.6...v4.1.7) (2024-11-23)
 
 
