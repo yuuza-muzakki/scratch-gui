@@ -25,7 +25,8 @@ const baseConfig = new ScratchWebpackConfigBuilder(
     {
         rootPath: path.resolve(__dirname),
         enableReact: true,
-        shouldSplitChunks: false
+        shouldSplitChunks: false,
+        publicPath: 'auto'
     })
     .setTarget('browserslist')
     .merge({
@@ -93,6 +94,7 @@ const distConfig = baseConfig.clone()
             path: path.resolve(__dirname, 'dist')
         }
     })
+    .addExternals(['react', 'react-dom'])
     .addPlugin(
         new CopyWebpackPlugin({
             patterns: [
