@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.3](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.2...v5.1.3) (2024-12-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-render to v2 ([6c8bd09](https://github.com/scratchfoundation/scratch-gui/commit/6c8bd09000d5efcca43b491664d80cb91a1308fe))
+
 ## [5.1.2](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.1...v5.1.2) (2024-12-05)
 
 
