@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.4](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.3...v5.1.4) (2024-12-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-paint to v3 ([fc15866](https://github.com/scratchfoundation/scratch-gui/commit/fc15866fe112655f0403429e8ef8de6e3ac0cd78))
+* **deps:** update dependency scratch-vm to v5 ([66bcdef](https://github.com/scratchfoundation/scratch-gui/commit/66bcdefd2072a0ebc89994e413a62ae81e1358eb))
+
 ## [5.1.3](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.2...v5.1.3) (2024-12-05)
 
 
