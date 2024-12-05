@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.1](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.0...v5.1.1) (2024-12-05)
+
+
+### Bug Fixes
+
+* set publicPath to 'auto' ([853caca](https://github.com/scratchfoundation/scratch-gui/commit/853caca41ac07b76298b8d371f7066311d95588e))
+* use react from external source when building dist ([ab1f65d](https://github.com/scratchfoundation/scratch-gui/commit/ab1f65d8c414873ca32b0961bc7846fd6f1f9c5f))
+
 # [5.1.0](https://github.com/scratchfoundation/scratch-gui/compare/v5.0.5...v5.1.0) (2024-12-04)
 
 
