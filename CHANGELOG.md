@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.2](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.1...v5.1.2) (2024-12-05)
+
+
+### Bug Fixes
+
+* **deps:** update dependency scratch-audio to v2 ([1099233](https://github.com/scratchfoundation/scratch-gui/commit/1099233320bea21fc2e4f22c0f47c0808743d5d6))
+* **deps:** update dependency scratch-l10n to v5 ([9a9e814](https://github.com/scratchfoundation/scratch-gui/commit/9a9e8148b6f74468d19cb0ca1ef7bbe8acd26e34))
+
 ## [5.1.1](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.0...v5.1.1) (2024-12-05)
 
 
