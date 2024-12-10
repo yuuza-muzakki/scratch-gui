@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.9](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.8...v5.1.9) (2024-12-10)
+
+
+### Bug Fixes
+
+* uepr-38: update debug modal image ([face25a](https://github.com/scratchfoundation/scratch-gui/commit/face25a17921400a4418ea6633b5fbd59df1405e))
+
 ## [5.1.8](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.7...v5.1.8) (2024-12-10)
 
 
