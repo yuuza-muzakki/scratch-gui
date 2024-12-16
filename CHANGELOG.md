@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.15](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.14...v5.1.15) (2024-12-16)
+
+
+### Bug Fixes
+
+* return menu bar padding ([d4044c5](https://github.com/scratchfoundation/scratch-gui/commit/d4044c5803f58821faafc9b2f45b955dee53d111))
+
 ## [5.1.14](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.13...v5.1.14) (2024-12-16)
 
 
